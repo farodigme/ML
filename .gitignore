@@ -8,3 +8,5 @@
 *.cs
 *.cache
 *.editorconfig
+/bin
+/obj
